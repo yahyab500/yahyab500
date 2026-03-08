@@ -12,7 +12,7 @@ I am currently building strong foundations in **data engineering and machine lea
 ## 🛠️ Tech Stack
 
 ### Programming
-![Programming](https://skillicons.dev/icons?i=python,java,bash)
+![Programming](https://skillicons.dev/icons?i=python,java,php,cpp,javascript,bash)
 
 ### Data & Big Data
 - Hadoop  
