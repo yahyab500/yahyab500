@@ -1,9 +1,7 @@
 # Hi, I'm Yahya 👋
 ### Aspiring Data Scientist | Big Data & AI Engineering Student
 
-🎓 Engineering student specializing in **Artificial Intelligence and Big Data**  
-⚡ Background in **Electrical Engineering, Automation, and Industrial Computing**  
-📊 Interested in **Data Science, Machine Learning, and Large-Scale Data Systems**
+🎓 Engineering student specializing in **Artificial Intelligence and Big Data** ⚡ Background in **Electrical Engineering, Automation, and Industrial Computing** 📊 Interested in **Data Science, Machine Learning, and Large-Scale Data Systems**
 
 I am currently building strong foundations in **data engineering and machine learning**, focusing on tools used in modern **big data ecosystems** such as **Hadoop, Spark, and Python-based ML frameworks**.
 
@@ -22,7 +20,9 @@ I am currently building strong foundations in **data engineering and machine lea
 - Data Processing Pipelines  
 
 ### Data Science Environment
-- Anaconda  
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
 - Python ML ecosystem  
 - Data preprocessing & analysis  
 - Model evaluation  
